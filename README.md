@@ -1,9 +1,9 @@
-## Sistema de Gestão Integrada para Clínica e Petshop — Pet Care
+# Sistema de Gestão Integrada para Clínica e Petshop — Pet Care
 
 
-# Projeto acadêmico de Modelagem e Implementação de Banco de Dados Relacional para uma clínica veterinária integrada a um petshop. O sistema centraliza clientes, pets, funcionários (veterinários e atendentes), prontuários, salas de procedimento, produtos, vendas e itens de venda em um único banco de dados normalizado.
+* Projeto acadêmico de Modelagem e Implementação de Banco de Dados Relacional para uma clínica veterinária integrada a um petshop. O sistema centraliza clientes, pets, funcionários (veterinários e atendentes), prontuários, salas de procedimento, produtos, vendas e itens de venda em um único banco de dados normalizado. *
 
-# Tecnologias
+## Tecnologias
 MySQL 8.0+
 MySQL Workbench
 Mermaid.js
@@ -30,7 +30,7 @@ As consultas SELECT (seção 3 do script) podem ser executadas para validação.
 Os UPDATEs (seção 4 do script) demonstram operações do cotidiano do sistema.
 Modelagem
 
-# O projeto contempla:
+## O projeto contempla:
 
 Entidades fortes (Pet, Produto, Venda, Sala de Procedimento);
 Entidade fraca (Prontuário, com chave composta id_pet + numero_prontuario);
@@ -47,5 +47,5 @@ Normalização em 1FN, 2FN e 3FN.
 
 
 ## Integrantes
-# Guilherme Alves Rocha — Engenharia de Software
-# Disciplina - Modelagem de Banco de Dados
+* Guilherme Alves Rocha — Engenharia de Software
+*  Disciplina - Modelagem de Banco de Dados
