@@ -47,7 +47,7 @@ Os UPDATEs (seção 4 do script) demonstram operações do cotidiano do sistema.
 
 ## Modelagem
 
-## O projeto contempla:
+* O projeto contempla:
 
 Entidades fortes (Pet, Produto, Venda, Sala de Procedimento);
 
